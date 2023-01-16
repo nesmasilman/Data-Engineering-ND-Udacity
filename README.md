@@ -14,8 +14,9 @@ Scripts in this project will be run in *Jupyter notebook* using the % magic comm
 # An explanation of the files in the repository:
 
 We have 2 types of files that we will use to extract our data,
-1- Song files (Includes the main data related to songs properites like song title, duration...etc)
-2- Log files (Includes the main data related to users who use the app like their names, session data...etc)
+
+* Song files (Includes the main data related to songs properites like song title, duration...etc)
+* Log files (Includes the main data related to users who use the app like their names, session data...etc)
 
 Both are in the JSON format, and we will use pandas library to read them and inset them into our created tables.
 
